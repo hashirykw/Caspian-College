@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" width="600" height="520" role="img" aria-label="Main block">
+<rect width="600" height="520" fill="#0d1436"/>
+<g opacity="0.9"><path d="M90 400h420M110 160h380" stroke="#c69a45" stroke-width="7" fill="none"/><rect x="124" y="172" width="34" height="220" fill="none" stroke="#c69a45" stroke-width="5"/><rect x="202" y="172" width="34" height="220" fill="none" stroke="#c69a45" stroke-width="5"/><rect x="280" y="172" width="34" height="220" fill="none" stroke="#c69a45" stroke-width="5"/><rect x="358" y="172" width="34" height="220" fill="none" stroke="#c69a45" stroke-width="5"/><rect x="436" y="172" width="34" height="220" fill="none" stroke="#c69a45" stroke-width="5"/><path d="M300 96l210 64H90z" fill="none" stroke="#c69a45" stroke-width="7"/></g>
+<rect x="18" y="18" width="564" height="484" fill="none" stroke="#c69a45" stroke-width="1.4" opacity=".45"/>
+<text x="40" y="472" font-family="Georgia,serif" font-size="26" fill="#ffffff" opacity=".92">Main block</text>
+<text x="40" y="62" font-family="Georgia,serif" font-size="16" fill="#c69a45" opacity=".85" letter-spacing="3">CAMPUS · 01</text>
+</svg>

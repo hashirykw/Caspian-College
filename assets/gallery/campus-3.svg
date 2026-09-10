@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" width="600" height="520" role="img" aria-label="Courtyard">
+<rect width="600" height="520" fill="#f3eee4"/>
+<g opacity="0.9"><rect x="100" y="390" width="70" height="46" fill="none" stroke="#16225f" stroke-width="4"/><rect x="170" y="344" width="70" height="92" fill="none" stroke="#16225f" stroke-width="4"/><rect x="240" y="298" width="70" height="138" fill="none" stroke="#16225f" stroke-width="4"/><rect x="310" y="252" width="70" height="184" fill="none" stroke="#16225f" stroke-width="4"/><rect x="380" y="206" width="70" height="230" fill="none" stroke="#16225f" stroke-width="4"/></g>
+<rect x="18" y="18" width="564" height="484" fill="none" stroke="#16225f" stroke-width="1.4" opacity=".45"/>
+<text x="40" y="472" font-family="Georgia,serif" font-size="26" fill="#16225f" opacity=".92">Courtyard</text>
+<text x="40" y="62" font-family="Georgia,serif" font-size="16" fill="#16225f" opacity=".85" letter-spacing="3">CAMPUS · 03</text>
+</svg>

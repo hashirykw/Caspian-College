@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" width="600" height="520" role="img" aria-label="Board work">
+<rect width="600" height="520" fill="#0d1436"/>
+<g opacity="0.9"><rect x="120" y="150" width="360" height="210" rx="4" fill="none" stroke="#2b7ea6" stroke-width="6"/><path d="M160 210h180M160 250h250M160 290h130" stroke="#2b7ea6" stroke-width="5" opacity=".6" fill="none"/><path d="M150 360v70M450 360v70" stroke="#2b7ea6" stroke-width="6"/></g>
+<rect x="18" y="18" width="564" height="484" fill="none" stroke="#2b7ea6" stroke-width="1.4" opacity=".45"/>
+<text x="40" y="472" font-family="Georgia,serif" font-size="26" fill="#ffffff" opacity=".92">Board work</text>
+<text x="40" y="62" font-family="Georgia,serif" font-size="16" fill="#2b7ea6" opacity=".85" letter-spacing="3">TEACHING · 04</text>
+</svg>

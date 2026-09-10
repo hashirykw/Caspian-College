@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" width="600" height="520" role="img" aria-label="Chemistry">
+<rect width="600" height="520" fill="#0d1436"/>
+<g opacity="0.9"><path d="M250 170h60v90l70 130a26 26 0 0 1-22 40H202a26 26 0 0 1-22-40l70-130z" fill="none" stroke="#c69a45" stroke-width="6"/><path d="M212 330h136l30 56H182z" fill="#c69a45" opacity=".28"/><circle cx="262" cy="352" r="7" fill="#c69a45" opacity=".55"/><circle cx="300" cy="366" r="5" fill="#c69a45" opacity=".45"/></g>
+<rect x="18" y="18" width="564" height="484" fill="none" stroke="#c69a45" stroke-width="1.4" opacity=".45"/>
+<text x="40" y="472" font-family="Georgia,serif" font-size="26" fill="#ffffff" opacity=".92">Chemistry</text>
+<text x="40" y="62" font-family="Georgia,serif" font-size="16" fill="#c69a45" opacity=".85" letter-spacing="3">LABS · 01</text>
+</svg>

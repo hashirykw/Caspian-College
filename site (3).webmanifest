@@ -1,0 +1,14 @@
+{
+  "name": "The Caspian College",
+  "short_name": "Caspian College",
+  "description": "Intermediate XI & XII — Science & Commerce, Federal B Area, Karachi.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#060b1c",
+  "theme_color": "#0a1130",
+  "icons": [
+    { "src": "assets/favicon.png", "sizes": "256x256", "type": "image/png", "purpose": "any" },
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

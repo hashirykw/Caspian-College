@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" width="600" height="520" role="img" aria-label="Physics">
+<rect width="600" height="520" fill="#16225f"/>
+<g opacity="0.9"><path d="M0 250 q80 -40 160 0 t160 0 t160 0 t160 0" fill="none" stroke="#f3eee4" stroke-width="6" opacity="1.0"/><path d="M0 300 q80 -40 160 0 t160 0 t160 0 t160 0" fill="none" stroke="#f3eee4" stroke-width="5" opacity="0.78"/><path d="M0 350 q80 -40 160 0 t160 0 t160 0 t160 0" fill="none" stroke="#f3eee4" stroke-width="4" opacity="0.56"/></g>
+<rect x="18" y="18" width="564" height="484" fill="none" stroke="#f3eee4" stroke-width="1.4" opacity=".45"/>
+<text x="40" y="472" font-family="Georgia,serif" font-size="26" fill="#ffffff" opacity=".92">Physics</text>
+<text x="40" y="62" font-family="Georgia,serif" font-size="16" fill="#f3eee4" opacity=".85" letter-spacing="3">LABS · 02</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" width="600" height="520" role="img" aria-label="Crest">
+<rect width="600" height="520" fill="#0d1436"/>
+<g opacity="0.9"><ellipse cx="300" cy="270" rx="130" ry="92" fill="none" stroke="#2b7ea6" stroke-width="6"/><path d="M215 300c50-70 110-88 150-46-30-8-52 3-72 22 26-8 44-3 58 12-40 3-74 8-136 12z" fill="#2b7ea6" opacity=".55"/><path d="M200 316q50-24 100 0t100 0" fill="none" stroke="#2b7ea6" stroke-width="5" opacity=".5"/></g>
+<rect x="18" y="18" width="564" height="484" fill="none" stroke="#2b7ea6" stroke-width="1.4" opacity=".45"/>
+<text x="40" y="472" font-family="Georgia,serif" font-size="26" fill="#ffffff" opacity=".92">Crest</text>
+<text x="40" y="62" font-family="Georgia,serif" font-size="16" fill="#2b7ea6" opacity=".85" letter-spacing="3">CAMPUS · 04</text>
+</svg>

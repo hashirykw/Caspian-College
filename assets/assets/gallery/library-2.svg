@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" width="600" height="520" role="img" aria-label="Shelves">
+<rect width="600" height="520" fill="#16225f"/>
+<g opacity="0.9"><rect x="112.0" y="280" width="17" height="150" fill="none" stroke="#f3eee4" stroke-width="4"/><rect x="153.60000000000002" y="240" width="21" height="190" fill="none" stroke="#f3eee4" stroke-width="4"/><rect x="188.8" y="265" width="18" height="165" fill="none" stroke="#f3eee4" stroke-width="4"/><rect x="233.60000000000002" y="225" width="23" height="205" fill="none" stroke="#f3eee4" stroke-width="4"/><rect x="272.0" y="290" width="16" height="140" fill="none" stroke="#f3eee4" stroke-width="4"/><rect x="320.0" y="250" width="20" height="180" fill="none" stroke="#f3eee4" stroke-width="4"/><rect x="361.6" y="270" width="18" height="160" fill="none" stroke="#f3eee4" stroke-width="4"/><rect x="403.20000000000005" y="235" width="22" height="195" fill="none" stroke="#f3eee4" stroke-width="4"/></g>
+<rect x="18" y="18" width="564" height="484" fill="none" stroke="#f3eee4" stroke-width="1.4" opacity=".45"/>
+<text x="40" y="472" font-family="Georgia,serif" font-size="26" fill="#ffffff" opacity=".92">Shelves</text>
+<text x="40" y="62" font-family="Georgia,serif" font-size="16" fill="#f3eee4" opacity=".85" letter-spacing="3">LIBRARY · 02</text>
+</svg>

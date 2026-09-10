@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" width="600" height="520" role="img" aria-label="Quiet study">
+<rect width="600" height="520" fill="#16225f"/>
+<g opacity="0.9"><path d="M70 420 V250 a55 55 0 0 1 110 0 V420" fill="none" stroke="#c69a45" stroke-width="6"/><path d="M205 420 V250 a55 55 0 0 1 110 0 V420" fill="none" stroke="#c69a45" stroke-width="6"/><path d="M340 420 V250 a55 55 0 0 1 110 0 V420" fill="none" stroke="#c69a45" stroke-width="6"/><path d="M475 420 V250 a55 55 0 0 1 110 0 V420" fill="none" stroke="#c69a45" stroke-width="6"/></g>
+<rect x="18" y="18" width="564" height="484" fill="none" stroke="#c69a45" stroke-width="1.4" opacity=".45"/>
+<text x="40" y="472" font-family="Georgia,serif" font-size="26" fill="#ffffff" opacity=".92">Quiet study</text>
+<text x="40" y="62" font-family="Georgia,serif" font-size="16" fill="#c69a45" opacity=".85" letter-spacing="3">LIBRARY · 05</text>
+</svg>
